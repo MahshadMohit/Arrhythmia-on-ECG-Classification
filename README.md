@@ -1,4 +1,4 @@
-# ECG Signal Classification Using Deep Learning
+# ECG Signal Classification
 
 ## Overview
 This project focuses on **electrocardiogram (ECG) signal analysis and classification** using deep learning techniques. ECG signals reflect the electrical activity of the heart and are widely used for detecting cardiac abnormalities such as arrhythmias.
